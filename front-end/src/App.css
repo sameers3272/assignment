@@ -1,0 +1,16 @@
+nav{
+  display: flex;
+  align-items: center;
+  background-color: #ccc;
+padding: 10px;
+width: 100%;
+}
+
+nav>a{
+padding: 10px;
+text-decoration: none;
+color: #000;
+}
+nav>button{
+  justify-self:flex-end;
+}
